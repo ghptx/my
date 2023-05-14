@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+h1,a,header,footer{
+    font-style: italic;
+}
+
+p{
+    color: lightblue;
+}
+
+h1{
+    color:lightskyblue;
+}
+
+a.link-header{
+    color:lightblue;
+}
+
+a.link-nav{
+    color:lightskyblue;
+}
+
+body {
+    background-color:rgb(99, 99, 204);
+}
+ul{
+    color:lightskyblue;
+}
+
+a{
+    color:lightblue;
+}
+
+ol{
+    color:lightblue;
+}
+
+h2{
+    color:lightblue;
+}
+
+
+
+
